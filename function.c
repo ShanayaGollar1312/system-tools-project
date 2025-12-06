@@ -14,7 +14,6 @@ printf("Enter to value:");
 scanf("%d", &m);
 
 printSquare(n, m);
-
 return 0;
 }
 
